@@ -1,6 +1,6 @@
 # workshop_sim4
 
-ScreenShot
+ScreenShots
 
 ![Capture1](https://user-images.githubusercontent.com/46970213/144313606-fd53ada6-0ffc-4b92-96af-4968348f9ac7.JPG)
 ![Capture2](https://user-images.githubusercontent.com/46970213/144313618-ac96e821-522d-4b3a-b088-429af32db7c9.JPG)
